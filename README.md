@@ -1,4 +1,4 @@
-*Instruction from devopshydclub/vprofile-project"
+*Instruction from devopshydclub/vprofile-project*
 ## Prerequisites
 - JDK 17 or later
 - Maven 3.9 or later
