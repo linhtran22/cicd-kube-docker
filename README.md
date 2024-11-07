@@ -1,7 +1,7 @@
+*Instruction from devopshydclub/vprofile-project"
 ## Prerequisites
-- JDK 1.8 or later
-- Maven 3 or later
-- MySQL 5.6 or later
+- JDK 17 or later
+- Maven 3.9 or later
 
 ## Technologies 
 - Spring MVC
@@ -10,15 +10,18 @@
 - Maven
 - JSP
 - MySQL
-## Database
-Here,we used Mysql DB 
-MSQL DB Installation Steps for Linux ubuntu 14.04:
-- $ sudo apt-get update
-- $ sudo apt-get install mysql-server
+- Jenkins
+- SonarQube
+- ElastiCache
+- MySQL DB
+  
+## CICD Pipeline
 
-Then look for the file :
-- /src/main/resources/accountsdb
-- accountsdb.sql file is a mysql dump file.we have to import this dump to mysql db server
-- > mysql -u <user_name> -p accounts < accountsdb.sql
+![Screenshot 2024-11-07 141832](https://github.com/user-attachments/assets/9d822863-00b6-49ee-bfb4-d48d4d01b3a9)
+
+
+## Finish
+
+![Finish_project](https://github.com/user-attachments/assets/3938ad41-87c0-4480-a751-a0b7f0748507)
 
 
